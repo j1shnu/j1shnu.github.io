@@ -1,0 +1,108 @@
+{
+    "basic_info": {
+      "name": "Jishnu Prasad K P",
+      "titles": [ "Senior Linux Admin", "DevOps Engineer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/j1shnu",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/j1shnu",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/j1shnu/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/j1shnuu",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/j1shnu",
+          "class": "fab fa-telegram"
+        }
+      ],
+      "image": "photo.JPG"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "95"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "70"
+        },
+        {
+          "name": "Apache",
+          "class": "devicon-apache-plain",
+          "level": "90"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "90"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "75"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-plain",
+          "level": "85"
+        },
+        {
+          "name": "Vagrant",
+          "class": "devicon-vagrant-plain",
+          "level": "85"
+        },
+        {
+          "name": "NGINX",
+          "class": "devicon-nginx-original",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "60"
+        },
+        {
+          "name": "Go",
+          "class": "devicon-go-plain",
+          "level": "80"
+        }
+      ]
+    }
+  }
