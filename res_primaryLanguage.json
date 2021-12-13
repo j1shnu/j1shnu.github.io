@@ -1,47 +1,49 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Jishnu Prasad, 3 years+ experienced Linux Admin and a technophile obsessed with latest technologies and devices. 🧑‍💻",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Jishnu Prasad, 3 years+ experienced Linux Admin and a technophile obsessed with latest technologies and devices. 🧑‍💻",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "experience": [
+    {
+      "company": "Xminds Infotech Pvt.Ltd",
+      "website": "https://www.xminds.com",
+      "title": "Linux System Administrator",
+      "years": "07.2021 - present",
+      "mainTech": [
+        "SysOps | DevOps"
+      ],
+      "technologies": [
+        "Linux",
+        "Cloud Services",
+        "MySQL",
+        "Bitbucket | GIT",
+        "Jenkins"
+      ]
     },
-    "experience": [
-      {
-        "company": "Xminds Infotech Pvt.Ltd",
-        "title": "Linux System Administrator",
-        "years": "07.2021 - present",
-        "mainTech": [
-          "SysOps | DevOps"
-        ],
-        "technologies": [
-          "Linux",
-          "Cloud Services",
-          "MySQL",
-          "Bitbucket | GIT",
-          "Jenkins"
-        ]
-      },
-      {
-        "company": "POSibolt Solutions Pvt.Ltd",
-        "title": "Linux System Administrator",
-        "years": "02.2018 - 07.2021",
-        "mainTech": [
-          "Linux | DevOps"
-        ],
-        "technologies": [
-          "Linux",
-          "Python",
-          "Jenkins",
-          "Docker",
-          "Apache",
-          "Shell Scripting",
-          "PostgreSQL",
-          "Subversion"
-        ]
-      }
-    ]
-  }
+    {
+      "company": "POSibolt Solutions Pvt.Ltd",
+      "website": "https://www.posibolt.com",
+      "title": "Linux System Administrator",
+      "years": "02.2018 - 07.2021",
+      "mainTech": [
+        "Linux | DevOps"
+      ],
+      "technologies": [
+        "Linux",
+        "Python",
+        "Jenkins",
+        "Docker",
+        "Apache",
+        "Shell Scripting",
+        "PostgreSQL",
+        "Subversion"
+      ]
+    }
+  ]
+}

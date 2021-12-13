@@ -44,14 +44,19 @@
           "level": "95"
         },
         {
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "70"
+        },
+        {
           "name": "Python",
           "class": "devicon-python-plain",
           "level": "80"
         },
         {
-          "name": "Bash",
-          "class": "devicon-bash-plain",
-          "level": "70"
+          "name": "Go",
+          "class": "devicon-go-plain",
+          "level": "80"
         },
         {
           "name": "Apache",
@@ -102,11 +107,6 @@
           "name": "Django",
           "class": "devicon-django-plain",
           "level": "60"
-        },
-        {
-          "name": "Go",
-          "class": "devicon-go-plain",
-          "level": "80"
         }
       ]
     }
