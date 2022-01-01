@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jishnu Prasad K P",
-      "titles": [ "Senior Linux Admin", "DevOps Engineer"],
+      "titles": [ "Senior Linux System Admin", "DevOps Engineer"],
       "social": [
         {
           "name": "github",
@@ -27,6 +27,11 @@
           "name": "Telegram",
           "url": "https://t.me/j1shnu",
           "class": "fab fa-telegram"
+        },
+        {
+          "name": "Reddit",
+          "url": "https://reddit.com/u/j1shnu",
+          "class": "fab fa-reddit"
         }
       ],
       "image": "photo.JPG"
@@ -106,6 +111,11 @@
         {
           "name": "Django",
           "class": "devicon-django-plain",
+          "level": "60"
+        },
+        {
+          "name": "DigitalOcean",
+          "class": "devicon-digitalocean-plain",
           "level": "60"
         }
       ]

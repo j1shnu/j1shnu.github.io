@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Jishnu Prasad, 3 years+ experienced Linux Admin and a technophile obsessed with latest technologies and devices. 🧑‍💻",
+    "description": "👋 I'm Jishnu Prasad, 4 years+ experienced Linux Admin and a technophile obsessed with latest technologies and devices. 🧑‍💻",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -21,9 +21,11 @@
       "technologies": [
         "Linux",
         "Cloud Services",
+        "Apache|NGINX",
         "MySQL",
         "Bitbucket | GIT",
-        "Jenkins"
+        "Jenkins",
+        "CI/CD"
       ]
     },
     {
