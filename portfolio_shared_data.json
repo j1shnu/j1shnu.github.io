@@ -122,6 +122,11 @@
           "name": "DigitalOcean",
           "class": "devicon-digitalocean-plain",
           "level": "60"
+        },
+        {
+          "name": "Kubernetes",
+          "class": "devicon-kubernetes-plain",
+          "level": "60"
         }
       ]
     }
