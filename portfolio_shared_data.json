@@ -127,6 +127,11 @@
           "name": "Kubernetes",
           "class": "devicon-kubernetes-plain",
           "level": "60"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain",
+          "level": "60"
         }
       ]
     }
