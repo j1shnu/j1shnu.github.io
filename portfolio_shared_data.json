@@ -132,6 +132,11 @@
           "name": "Jira",
           "class": "devicon-jira-plain",
           "level": "60"
+        },
+        {
+          "name": "Terraform",
+          "class": "devicon-terraform-plain",
+          "level": "60"
         }
       ]
     }
