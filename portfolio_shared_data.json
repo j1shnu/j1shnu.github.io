@@ -32,11 +32,6 @@
           "name": "Telegram",
           "url": "https://t.me/j1shnu",
           "class": "fab fa-telegram"
-        },
-        {
-          "name": "Reddit",
-          "url": "https://reddit.com/u/j1shnu",
-          "class": "fab fa-reddit"
         }
       ],
       "image": "photo.JPG"
