@@ -11,27 +11,6 @@
   },
   "experience": [
     {
-      "company": "Xminds Infotech Pvt.Ltd",
-      "website": "https://www.xminds.com",
-      "title": "Linux System Administrator",
-      "years": "07.2021 - present",
-      "mainTech": [
-        "SysOps | DevOps"
-      ],
-      "technologies": [
-        "Linux",
-        "AWS | DigitalOcean",
-        "Apache | NGINX",
-        "MySQL",
-        "Bitbucket | GitHub",
-        "Jenkins",
-        "CI/CD",
-        "Docker | K8s",
-        "Terraform",
-        "Jira"
-      ]
-    },
-    {
       "company": "POSibolt Solutions Pvt.Ltd",
       "website": "https://www.posibolt.com",
       "title": "Linux System Administrator",
@@ -48,6 +27,41 @@
         "Shell Scripting",
         "PostgreSQL",
         "Subversion"
+      ]
+    },
+    {
+      "company": "Xminds Infotech Pvt.Ltd",
+      "website": "https://www.xminds.com",
+      "title": "Linux System Admin & DevOps  Engr.",
+      "years": "07.2021 - 08.2022",
+      "mainTech": [
+        "SysOps | DevOps"
+      ],
+      "technologies": [
+        "Linux",
+        "AWS | DigitalOcean",
+        "Apache | NGINX",
+        "MySQL | PostgreSQL",
+        "Bitbucket | GitHub",
+        "Jenkins",
+        "CI/CD",
+        "Docker | K8s",
+        "Terraform",
+        "Jira",
+        "Microservices"
+      ]
+    },
+    {
+      "company": "Amazon Web Services",
+      "website": "https://aws.amazon.com/",
+      "title": "Cloud Support Engineer - I",
+      "years": "08.2022 - present",
+      "mainTech": [
+        "Linux | Support"
+      ],
+      "technologies": [
+        "Linux",
+        "AWS"
       ]
     }
   ]
