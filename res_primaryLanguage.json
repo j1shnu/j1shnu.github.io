@@ -32,7 +32,7 @@
     {
       "company": "Xminds Infotech Pvt.Ltd",
       "website": "https://www.xminds.com",
-      "title": "Linux System Admin & DevOps  Engr.",
+      "title": "Linux System Admin | DevOps Engg.",
       "years": "07.2021 - 08.2022",
       "mainTech": [
         "SysOps | DevOps"
@@ -54,14 +54,14 @@
     {
       "company": "Amazon Web Services (AWS)",
       "website": "https://aws.amazon.com/",
-      "title": "Cloud Support Engineer - I",
+      "title": "Cloud Support Engineer | EC2 Linux SME",
       "years": "08.2022 - present",
       "mainTech": [
         "Linux | Support"
       ],
       "technologies": [
         "Core Linux",
-        "AWS",
+        "AWS Services for automation",
         "Python",
         "Shell Scripting"
       ]
