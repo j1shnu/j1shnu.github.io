@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Jishnu, 5 years+ experienced Linux Admin and DevOps Practitioner. Also a technophile obsessed with latest technologies and devices. 🧑‍💻",
+    "description": "👋 I'm Jishnu, 6 years+ experienced Linux Admin and DevOps Practitioner. Also a technophile obsessed with latest technologies and devices. 🧑‍💻",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -55,7 +55,7 @@
       "company": "Amazon Web Services (AWS)",
       "website": "https://aws.amazon.com/",
       "title": "Cloud Support Engineer | EC2 Linux SME",
-      "years": "08.2022 - present",
+      "years": "08.2022 - 04.2025",
       "mainTech": [
         "Linux | Support"
       ],
@@ -63,7 +63,24 @@
         "Core Linux",
         "AWS Services for automation",
         "Python",
-        "Shell Scripting"
+        "Shell Scripting",
+        "Technical Support Engineering"
+      ]
+    },
+    {
+      "company": "Netskope, Inc",
+      "website": "https://www.netskope.com/",
+      "title": "Sr.Site Reliability Engineer (SRE)",
+      "years": "04.2025 - present",
+      "mainTech": [
+        "DevOps | SRE"
+      ],
+      "technologies": [
+        "Linux",
+        "Python",
+        "Shell Scripting",
+        "Kubernetes",
+        "Jenkins"
       ]
     }
   ]
